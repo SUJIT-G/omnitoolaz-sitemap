@@ -19,15 +19,8 @@ discover and index all the pages of the website.
 ## 🌐 Website
 👉 Visit: [https://www.omnitoolaz.com](https://www.omnitoolaz.com)
 
----
-
-## 🚀 How to Use
-1. Copy `sitemap.xml` into your Blogger / domain root.
-2. Submit the sitemap in **Google Search Console**:
-   - Go to *Indexing → Sitemaps*
-   - Enter `https://www.omnitoolaz.com/sitemap.xml`
-   - Click **Submit**.
 
 
 ## 📜 License
 This project is licensed under the **MIT License** – free to use and modify.
+
